@@ -1,5 +1,4 @@
  # Here is a new update by tkleone
-# Here is another update by tkleon
 
 # Shipping Cost Calculator
 
